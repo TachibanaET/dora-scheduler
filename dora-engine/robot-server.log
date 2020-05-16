@@ -1,0 +1,44 @@
+google text-to-speech disabled.
+aws text-to-speech disabled.
+google translate api disabled.
+no such file or directory, open '/root/Sound/robot-cacheDB.json'
+robot-server listening on port 3090!
+connected io ::ffff:127.0.0.1
+connected
+connected io ::ffff:172.19.0.1
+risaju
+write /root/robot-data.json
+loadQuizPayload { members: [] }
+# 5/16/2020, 1:36:53 PM ::ffff:172.19.0.1 /scheduler/
+{"host":"localhost:3090","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9","sec-fetch-site":"cross-site","sec-fetch-mode":"navigate","sec-fetch-dest":"document","accept-encoding":"gzip, deflate, br","accept-language":"ja,en;q=0.9,zh-CN;q=0.8,zh;q=0.7","cookie":"_xsrf=2|ef46de07|73c9879ab6991fa48918eab48aa6f09a|1587084646; username-localhost-8888=\"2|1:0|10:1589370663|23:username-localhost-8888|44:ZjYzNDI0NmI3ODQ2NDIwYjhmYTczYzFiMjBhMjE2ZDI=|a58270818b35c0e14ba4c614c0533e7fbf5d6223c5395728e46642cb548a131b\"; connect.sid=s%3AB-M8az6wd4XaFgZVzwGk2W4qZaH3XI4n.K86AwyoHmbeAV0q%2BZEZ8E7f3suE0HpjDH9AHADDWoF8","if-none-match":"W/\"225-17213261778\"","if-modified-since":"Thu, 14 May 2020 12:26:03 GMT"}
+SessionID: coDFz_P2xx4OC3Xfh8vVMDrMsdDQeVtL
+session: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+# 5/16/2020, 1:36:53 PM ::ffff:172.19.0.1 /static/css/main-scheduler.9bb06ee6.css
+{"host":"localhost:3090","connection":"keep-alive","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36","accept":"text/css,*/*;q=0.1","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"style","referer":"http://localhost:3090/scheduler/","accept-encoding":"gzip, deflate, br","accept-language":"ja,en;q=0.9,zh-CN;q=0.8,zh;q=0.7","cookie":"_xsrf=2|ef46de07|73c9879ab6991fa48918eab48aa6f09a|1587084646; username-localhost-8888=\"2|1:0|10:1589370663|23:username-localhost-8888|44:ZjYzNDI0NmI3ODQ2NDIwYjhmYTczYzFiMjBhMjE2ZDI=|a58270818b35c0e14ba4c614c0533e7fbf5d6223c5395728e46642cb548a131b\"; connect.sid=s%3AB-M8az6wd4XaFgZVzwGk2W4qZaH3XI4n.K86AwyoHmbeAV0q%2BZEZ8E7f3suE0HpjDH9AHADDWoF8; io=vajsbQ9mxwaXE3E-AAAB","if-none-match":"W/\"1fab3-17213261778\"","if-modified-since":"Thu, 14 May 2020 12:26:03 GMT"}
+SessionID: PWoqn_qgy3icGRadlUR1BfJ_9RtMXyAE
+session: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+# 5/16/2020, 1:36:53 PM ::ffff:172.19.0.1 /static/js/main-scheduler.ae88998d.js
+{"host":"localhost:3090","connection":"keep-alive","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"script","referer":"http://localhost:3090/scheduler/","accept-encoding":"gzip, deflate, br","accept-language":"ja,en;q=0.9,zh-CN;q=0.8,zh;q=0.7","cookie":"_xsrf=2|ef46de07|73c9879ab6991fa48918eab48aa6f09a|1587084646; username-localhost-8888=\"2|1:0|10:1589370663|23:username-localhost-8888|44:ZjYzNDI0NmI3ODQ2NDIwYjhmYTczYzFiMjBhMjE2ZDI=|a58270818b35c0e14ba4c614c0533e7fbf5d6223c5395728e46642cb548a131b\"; connect.sid=s%3AB-M8az6wd4XaFgZVzwGk2W4qZaH3XI4n.K86AwyoHmbeAV0q%2BZEZ8E7f3suE0HpjDH9AHADDWoF8; io=vajsbQ9mxwaXE3E-AAAB","if-none-match":"W/\"101452-17213261778\"","if-modified-since":"Thu, 14 May 2020 12:26:03 GMT"}
+SessionID: lWt4LXAa4iYy6qFkwNgZ0HUJDxdxbAqI
+session: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+connected io ::ffff:172.19.0.1
+# 5/16/2020, 1:36:53 PM ::ffff:172.19.0.1 /access-token
+{"host":"localhost:3090","connection":"keep-alive","content-length":"0","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36","accept":"*/*","origin":"http://localhost:3090","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3090/scheduler/","accept-encoding":"gzip, deflate, br","accept-language":"ja,en;q=0.9,zh-CN;q=0.8,zh;q=0.7","cookie":"_xsrf=2|ef46de07|73c9879ab6991fa48918eab48aa6f09a|1587084646; username-localhost-8888=\"2|1:0|10:1589370663|23:username-localhost-8888|44:ZjYzNDI0NmI3ODQ2NDIwYjhmYTczYzFiMjBhMjE2ZDI=|a58270818b35c0e14ba4c614c0533e7fbf5d6223c5395728e46642cb548a131b\"; connect.sid=s%3AB-M8az6wd4XaFgZVzwGk2W4qZaH3XI4n.K86AwyoHmbeAV0q%2BZEZ8E7f3suE0HpjDH9AHADDWoF8; io=vajsbQ9mxwaXE3E-AAAB"}
+SessionID: cpKks5_5THKcolEz6B15wfd6Ig4z0Tr8
+session: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+# 5/16/2020, 1:36:54 PM ::ffff:172.19.0.1 /bar/all
+{"host":"localhost:3090","connection":"keep-alive","content-length":"2","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36","content-type":"application/json","accept":"*/*","origin":"http://localhost:3090","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3090/scheduler/","accept-encoding":"gzip, deflate, br","accept-language":"ja,en;q=0.9,zh-CN;q=0.8,zh;q=0.7","cookie":"_xsrf=2|ef46de07|73c9879ab6991fa48918eab48aa6f09a|1587084646; username-localhost-8888=\"2|1:0|10:1589370663|23:username-localhost-8888|44:ZjYzNDI0NmI3ODQ2NDIwYjhmYTczYzFiMjBhMjE2ZDI=|a58270818b35c0e14ba4c614c0533e7fbf5d6223c5395728e46642cb548a131b\"; connect.sid=s%3AB-M8az6wd4XaFgZVzwGk2W4qZaH3XI4n.K86AwyoHmbeAV0q%2BZEZ8E7f3suE0HpjDH9AHADDWoF8; io=myQD9j3402YImEKsAAAC"}
+SessionID: hslc4jOFj2LbrXci4vwHzbGWxaP74bai
+session: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+# 5/16/2020, 1:36:54 PM ::ffff:172.19.0.1 /calendar
+{"host":"localhost:3090","connection":"keep-alive","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36","content-type":"application/json","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3090/scheduler/","accept-encoding":"gzip, deflate, br","accept-language":"ja,en;q=0.9,zh-CN;q=0.8,zh;q=0.7","cookie":"_xsrf=2|ef46de07|73c9879ab6991fa48918eab48aa6f09a|1587084646; username-localhost-8888=\"2|1:0|10:1589370663|23:username-localhost-8888|44:ZjYzNDI0NmI3ODQ2NDIwYjhmYTczYzFiMjBhMjE2ZDI=|a58270818b35c0e14ba4c614c0533e7fbf5d6223c5395728e46642cb548a131b\"; connect.sid=s%3AB-M8az6wd4XaFgZVzwGk2W4qZaH3XI4n.K86AwyoHmbeAV0q%2BZEZ8E7f3suE0HpjDH9AHADDWoF8; io=myQD9j3402YImEKsAAAC","if-none-match":"W/\"2-vyGp6PvFo4RvsFtPoIWeCReyIC8\""}
+SessionID: PjxYrR5rLIFP3xmKFlaH8vWWvI9GOEMd
+session: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+# 5/16/2020, 1:36:54 PM ::ffff:172.19.0.1 /manifest.json
+{"host":"localhost:3090","connection":"keep-alive","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36","accept":"*/*","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3090/scheduler/","accept-encoding":"gzip, deflate, br","accept-language":"ja,en;q=0.9,zh-CN;q=0.8,zh;q=0.7","if-none-match":"W/\"13d-17213261778\"","if-modified-since":"Thu, 14 May 2020 12:26:03 GMT"}
+SessionID: zMA06XTojDrzh3JgUunDuXmHeAa6Omlz
+session: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+# 5/16/2020, 1:36:54 PM ::ffff:172.19.0.1 /favicon.ico
+{"host":"localhost:3090","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","sec-fetch-site":"same-origin","sec-fetch-mode":"no-cors","sec-fetch-dest":"empty","referer":"http://localhost:3090/scheduler/","accept-encoding":"gzip, deflate, br","accept-language":"ja,en;q=0.9,zh-CN;q=0.8,zh;q=0.7","cookie":"_xsrf=2|ef46de07|73c9879ab6991fa48918eab48aa6f09a|1587084646; username-localhost-8888=\"2|1:0|10:1589370663|23:username-localhost-8888|44:ZjYzNDI0NmI3ODQ2NDIwYjhmYTczYzFiMjBhMjE2ZDI=|a58270818b35c0e14ba4c614c0533e7fbf5d6223c5395728e46642cb548a131b\"; connect.sid=s%3AB-M8az6wd4XaFgZVzwGk2W4qZaH3XI4n.K86AwyoHmbeAV0q%2BZEZ8E7f3suE0HpjDH9AHADDWoF8; io=myQD9j3402YImEKsAAAC"}
+SessionID: YtPWRhaUo-8gFvJkvEe2C6Slnr-_4zub
+session: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}

@@ -1,0 +1,29 @@
+version: '3'
+services:
+  #dora-scheduler
+  dora-scheduler:
+    build: 
+      context: .
+      dockerfile: ./dora-scheduler/Dockerfile
+    volumes: 
+      - ./dora-scheduler:/src 
+    container_name: dora-scheduler
+    ports:
+      - "4396:4396"
+    tty: true
+
+  #dora-engine
+  dora-engine:
+    build:
+      context: .
+      dockerfile: ./dora-engine/Dockerfile
+    
+    volumes:
+      - ./dora-engine:/src
+    container_name: dora-engine
+    ports:
+      - "3090:3090"
+    tty: true
+    
+volumes:
+  node_modules:
